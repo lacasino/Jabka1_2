@@ -1,0 +1,13 @@
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\bin\Debug\netcoreapp3.1\laba1Opppart2.exe
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\bin\Debug\netcoreapp3.1\laba1Opppart2.deps.json
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\bin\Debug\netcoreapp3.1\laba1Opppart2.runtimeconfig.json
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\bin\Debug\netcoreapp3.1\laba1Opppart2.runtimeconfig.dev.json
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\bin\Debug\netcoreapp3.1\laba1Opppart2.dll
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\bin\Debug\netcoreapp3.1\laba1Opppart2.pdb
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\obj\Debug\netcoreapp3.1\laba1Opppart2.AssemblyInfoInputs.cache
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\obj\Debug\netcoreapp3.1\laba1Opppart2.AssemblyInfo.cs
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\obj\Debug\netcoreapp3.1\laba1Opppart2.csproj.CoreCompileInputs.cache
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\obj\Debug\netcoreapp3.1\laba1Opppart2.dll
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\obj\Debug\netcoreapp3.1\laba1Opppart2.pdb
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\obj\Debug\netcoreapp3.1\laba1Opppart2.genruntimeconfig.cache
+C:\Users\3nora\Downloads\laba1Opppart2-master\laba1Opppart2\obj\Debug\netcoreapp3.1\laba1Opppart2.csprojAssemblyReference.cache
